@@ -4,6 +4,9 @@ body{
 h1{
 	color: #ff0a54; text-align: center;
 }
+.contenedor{
+    width: 80%; max-width: 1000px; margin: 0 auto; overflow: hidden;
+}
 .hidden{
   display:none;
 }
@@ -47,7 +50,7 @@ div.petalo{
 	top:140px; left:180px;
 }
 #figura{
-	position: absolute; background-color: transparent; top:0px; left: 0px; width: 300px; margin: auto; margin-top: 0px;
+	position: absolute; background-color: transparent; top:0px; left: 0px; width: 70%; margin: auto; margin-top: 0px;
 }
 #figura1{
 	position: absolute; background-color: transparent; top:0px; left: 0px; width: 300px; margin: 200px; margin-top: 0px;
