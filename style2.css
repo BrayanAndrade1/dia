@@ -1,5 +1,5 @@
 body{
-	margin: 500px; padding: 500px; min-height: 200vh; display: flex; align-items: justify; justify-content: justify;
+	margin: 500px; padding: 200px; min-height: 100vh; display: flex; align-items: justify; justify-content: justify;
     background: #0270ff8a;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 196, 0, 0)), 
     url('Anghy.jpg');
