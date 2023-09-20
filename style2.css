@@ -10,7 +10,7 @@ body{
     animation: palpitar 0.5s linear infinite alternate;
 }
 .contenido{
-    position: absolute; margin-top: 0px;
+    position: absolute; 
 }
 h1{
     color: white;
