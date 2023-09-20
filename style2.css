@@ -6,11 +6,11 @@ body{
 }
 .heart{
     height: 500px; width: 500px; background-color: red; position: absolute; transform: rotate(45deg); 
-    box-shadow: -20px 20px 150px red; margin: 300px;
+    box-shadow: -20px 20px 150px red; margin: 400px;
     animation: palpitar 0.5s linear infinite alternate;
 }
 .contenido{
-    position: absolute; margin-bottom: 300px; text-align: justify;
+    position: relative; margin-bottom: 300px; text-align: justify;
 }
 h1{
     color: white;
