@@ -221,7 +221,7 @@ div.petalo{
 	position: absolute; background-color: transparent; top:2000px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
 #cesped{
-	width: 1500px; bottom: 0px; position: fixed;
+	width: 15000px; bottom: 0px; position: fixed;
 }
 .manga{
 	background: #00fa3a; transform:rotate(45deg); -webkit-transform:rotate(45deg); -moz-transform:rotate(45deg);
