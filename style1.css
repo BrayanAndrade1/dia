@@ -183,12 +183,12 @@ div.petalo{
 	position: absolute; background-color: transparent; top:2000px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
 #cesped{
-	width: 3000px; bottom: -100px; position: fixed;
+	width: 3000px; bottom: 0px; position: fixed;
 }
 .manga{
 	background: #00fa3a; transform:rotate(45deg); -webkit-transform:rotate(45deg); -moz-transform:rotate(45deg);
 	-ms-transform:rotate(45deg); -o-transform:rotate(45deg); width: 100px; height: 100px; display: inline-block;
 }
 .fondo_manga{
-  background: #00ff3c; height: 60px; position: absolute; top: 50px; width: 3000px;
+  background: #00ff3c; height: 60px; position: absolute; top: 50px; width: 4000px;
 }
