@@ -4,9 +4,7 @@ body{
 h1{
 	color: #ff0a54; text-align: center;
 }
-.contenedor{
-    width: 80%; max-width: 1000px; margin: 0 auto; overflow: hidden;
-}
+
 .hidden{
   display:none;
 }
