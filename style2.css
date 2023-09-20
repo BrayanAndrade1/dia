@@ -6,7 +6,7 @@ body{
 }
 .heart{
     height: 500px; width: 500px; background-color: red; position: absolute; transform: rotate(45deg); 
-    box-shadow: -20px 20px 150px red;
+    box-shadow: -20px 20px 150px red; margin-left: 10%;
     animation: palpitar 0.5s linear infinite alternate;
 }
 .contenido{
