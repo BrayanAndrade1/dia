@@ -104,46 +104,121 @@ div.petalo{
 	position: absolute; background-color: transparent; top:500px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
 #figura19{
-	position: absolute; background-color: transparent; top:750px; left: 0px; width: 300px; margin: -100px; margin-top: 0px;
-}
-#figura20{
 	position: absolute; background-color: transparent; top:750px; left: 50px; width: 300px; margin: 50px; margin-top: 0px;
 }
-#figura21{
+#figura20{
 	position: absolute; background-color: transparent; top:750px; left: 100px; width: 300px; margin: 200px; margin-top: 0px;
 }
-#figura22{
+#figura21{
 	position: absolute; background-color: transparent; top:750px; left: 150px; width: 300px; margin: 350px; margin-top: 0px;
 }
-#figura23{
+#figura22{
 	position: absolute; background-color: transparent; top:750px; left: 200px; width: 300px; margin: 500px; margin-top: 0px;
 }
-#figura24{
+#figura23{
 	position: absolute; background-color: transparent; top:750px; left: 250px; width: 300px; margin: 650px; margin-top: 0px;
 }
-#figura25{
+#figura24{
 	position: absolute; background-color: transparent; top:750px; left: 300px; width: 300px; margin: 800px; margin-top: 0px;
 }
+#figura25{
+	position: absolute; background-color: transparent; top:750px; left: 0px; width: 300px; margin: -100px; margin-top: 0px;
+}
 #figura26{
-	position: absolute; background-color: transparent; top:1000px; left: 50px; width: 300px; margin: 50px; margin-top: 0px;
+	position: absolute; background-color: transparent; top:1000px; left: 0px; width: 300px; margin: 0px; margin-top: 0px;
 }
 #figura27{
-	position: absolute; background-color: transparent; top:1000px; left: 100px; width: 300px; margin: 200px; margin-top: 0px;
+	position: absolute; background-color: transparent; top:1000px; left: 0px; width: 300px; margin: 200px; margin-top: 0px;
 }
 #figura28{
-	position: absolute; background-color: transparent; top:1000px; left: 150px; width: 300px; margin: 350px; margin-top: 0px;
+	position: absolute; background-color: transparent; top:1000px; left: 100px; width: 300px; margin: 300px; margin-top: 0px;
 }
 #figura29{
-	position: absolute; background-color: transparent; top:1000px; left: 200px; width: 300px; margin: 500px; margin-top: 0px;
+	position: absolute; background-color: transparent; top:1000px; left: 200px; width: 300px; margin: 400px; margin-top: 0px;
 }
 #figura30{
-	position: absolute; background-color: transparent; top:1000px; left: 250px; width: 300px; margin: 650px; margin-top: 0px;
+	position: absolute; background-color: transparent; top:1000px; left: 300px; width: 300px; margin: 500px; margin-top: 0px;
 }
 #figura31{
-	position: absolute; background-color: transparent; top:1000px; left: 300px; width: 300px; margin: 800px; margin-top: 0px;
+	position: absolute; background-color: transparent; top:1000px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
 #figura32{
-	position: absolute; background-color: transparent; top:1000px; left: 0px; width: 300px; margin: -100px; margin-top: 0px;
+	position: absolute; background-color: transparent; top:1250px; left: 0px; width: 300px; margin: -100px; margin-top: 0px;
+}
+#figura33{
+	position: absolute; background-color: transparent; top:1250px; left: 50px; width: 300px; margin: 50px; margin-top: 0px;
+}
+#figura34{
+	position: absolute; background-color: transparent; top:1250px; left: 100px; width: 300px; margin: 200px; margin-top: 0px;
+}
+#figura35{
+	position: absolute; background-color: transparent; top:1250px; left: 150px; width: 300px; margin: 350px; margin-top: 0px;
+}
+#figura36{
+	position: absolute; background-color: transparent; top:1250px; left: 200px; width: 300px; margin: 500px; margin-top: 0px;
+}
+#figura37{
+	position: absolute; background-color: transparent; top:1250px; left: 250px; width: 300px; margin: 650px; margin-top: 0px;
+}
+#figura38{
+	position: absolute; background-color: transparent; top:1250px; left: 300px; width: 300px; margin: 800px; margin-top: 0px;
+}
+#figura39{
+	position: absolute; background-color: transparent; top:1500px; left: 0px; width: 300px; margin: 0px; margin-top: 0px;
+}
+#figura40{
+	position: absolute; background-color: transparent; top:1500px; left: 0px; width: 300px; margin: 200px; margin-top: 0px;
+}
+#figura41{
+	position: absolute; background-color: transparent; top:1500px; left: 100px; width: 300px; margin: 300px; margin-top: 0px;
+}
+#figura42{
+	position: absolute; background-color: transparent; top:1500px; left: 200px; width: 300px; margin: 400px; margin-top: 0px;
+}
+#figura43{
+	position: absolute; background-color: transparent; top:1500px; left: 300px; width: 300px; margin: 500px; margin-top: 0px;
+}
+#figura44{
+	position: absolute; background-color: transparent; top:1500px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
+}
+#figura45{
+	position: absolute; background-color: transparent; top:1750px; left: 0px; width: 300px; margin: -100px; margin-top: 0px;
+}
+#figura46{
+	position: absolute; background-color: transparent; top:1750px; left: 50px; width: 300px; margin: 50px; margin-top: 0px;
+}
+#figura47{
+	position: absolute; background-color: transparent; top:1750px; left: 100px; width: 300px; margin: 200px; margin-top: 0px;
+}
+#figura48{
+	position: absolute; background-color: transparent; top:1750px; left: 150px; width: 300px; margin: 350px; margin-top: 0px;
+}
+#figura49{
+	position: absolute; background-color: transparent; top:1750px; left: 200px; width: 300px; margin: 500px; margin-top: 0px;
+}
+#figura50{
+	position: absolute; background-color: transparent; top:1750px; left: 250px; width: 300px; margin: 650px; margin-top: 0px;
+}
+#figura51{
+	position: absolute; background-color: transparent; top:1750px; left: 300px; width: 300px; margin: 800px; margin-top: 0px;
+}
+#figura52{
+	position: absolute; background-color: transparent; top:2000px; left: 0px; width: 300px; margin: 0px; margin-top: 0px;
+}
+#figura53{
+	position: absolute; background-color: transparent; top:2000px; left: 0px; width: 300px; margin: 200px; margin-top: 0px;
+}
+#figura54{
+	position: absolute; background-color: transparent; top:2000px; left: 100px; width: 300px; margin: 300px; margin-top: 0px;
+}
+#figura55{
+	position: absolute; background-color: transparent; top:2000px; left: 200px; width: 300px; margin: 400px; margin-top: 0px;
+}
+#figura56{
+	position: absolute; background-color: transparent; top:2000px; left: 300px; width: 300px; margin: 500px; margin-top: 0px;
+}
+#figura57{
+	position: absolute; background-color: transparent; top:2000px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
 #cesped{
 	width: 1500px; bottom: 0px; position: fixed;
