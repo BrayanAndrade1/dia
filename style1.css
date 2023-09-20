@@ -1,0 +1,91 @@
+body{
+	background-color: #c0fdff; font-family: Arial;
+}
+h1{
+	color: #ff0a54; text-align: center;
+}
+.hidden{
+  display:none;
+}
+.mostrar{
+  display:block;
+}
+div.petalo{
+	background-color:yellow; border-radius: 40px; width: 80px; height: 80px; position: absolute;
+}
+#centro{
+	background-color: #ffc400; border-radius: 70px; -webkit-border-radius: 70px; -moz-border-radius: 70px;
+	-ms-border-radius: 70px; -o-border-radius: 70px; width: 100px; height: 100px; top:50%; left:50%;
+	position: absolute; margin-top: -50px; margin-left: -50px;
+}
+#tallo{
+	width: 15px; height: 150px; background-color: #006c67; margin-top: -100px; margin-left: 145px;
+}
+#hoja{
+	background-color: #006c67; border-radius: 15px 0px 15px 0px; width: 30px; height: 30px;
+	margin-left: 160px; margin-top: -90px; position: absolute;
+}
+#flor{
+	width: 300px; height: 300px; background-color: transparent; position: relative;
+}
+#p1{
+	top:70px; left:40px;
+}
+#p2{
+	top:40px; left:110px;
+}
+#p3{
+	top:70px; left:180px;
+}
+#p4{
+	top:145px; left:44px;
+}
+#p5{
+	top:180px; left:114px;
+}
+#p6{
+	top:140px; left:180px;
+}
+#figura{
+	position: absolute; background-color: transparent; top:0px; left: 0px; width: 300px; margin: auto; margin-top: 0px;
+}
+#figura1{
+	position: absolute; background-color: transparent; top:0px; left: 0px; width: 300px; margin: 200px; margin-top: 0px;
+}
+#figura4{
+	position: absolute; background-color: transparent; top:0px; left: 300px; width: 300px; margin: 500px; margin-top: 0px;
+}
+#figura5{
+	position: absolute; background-color: transparent; top:0px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
+}
+#figura6{
+	position: absolute; background-color: transparent; top:250px; left: 50px; width: 300px; margin: 50px; margin-top: 0px;
+}
+#figura7{
+	position: absolute; background-color: transparent; top:250px; left: 100px; width: 300px; margin: 200px; margin-top: 0px;
+}
+#figura8{
+	position: absolute; background-color: transparent; top:250px; left: 150px; width: 300px; margin: 350px; margin-top: 0px;
+}
+#figura9{
+	position: absolute; background-color: transparent; top:250px; left: 200px; width: 300px; margin: 500px; margin-top: 0px;
+}
+#figura10{
+	position: absolute; background-color: transparent; top:250px; left: 250px; width: 300px; margin: 650px; margin-top: 0px;
+}
+#figura11{
+	position: absolute; background-color: transparent; top:250px; left: 300px; width: 300px; margin: 800px; margin-top: 0px;
+}
+#figura12{
+	position: absolute; background-color: transparent; top:250px; left: 0px; width: 300px; margin: -100px; margin-top: 0px;
+}
+#cesped{
+	width: 1500px; bottom: 0px; position: fixed;
+}
+.manga{
+	background: #00fa3a; transform:rotate(45deg); -webkit-transform:rotate(45deg); -moz-transform:rotate(45deg);
+	-ms-transform:rotate(45deg); -o-transform:rotate(45deg); width: 100px; height: 100px; display: inline-block;
+}
+.fondo_manga{
+  background: #00ff3c; height: 100px; position: absolute; top: 26px; width: 1500px;
+}
