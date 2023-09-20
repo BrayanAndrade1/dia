@@ -1,11 +1,11 @@
 body{
-	margin: 200px; padding: 200px; min-height: 200vh; display: flex; align-items: justify; justify-content: center;
+	margin: 500px; padding: 500px; min-height: 200vh; display: flex; align-items: justify; justify-content: justify;
     background: #0270ff8a;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 196, 0, 0)), 
     url('Anghy.jpg');
 }
 .heart{
-    height: 500px; width: 500px; background-color: red; position: relative; transform: rotate(45deg); 
+    height: 500px; width: 500px; background-color: red; position: absolute; transform: rotate(45deg); 
     box-shadow: -20px 20px 150px red; 
     animation: palpitar 0.5s linear infinite alternate;
 }
