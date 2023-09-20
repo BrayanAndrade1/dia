@@ -49,36 +49,11 @@ div.petalo{
 #figura{
 	position: absolute; background-color: transparent; top:0px; left: 0px; width: 70%; margin: auto; margin-top: 0px;
 }
-#figura1{
-	position: absolute; background-color: transparent; top:0px; left: 0px; width: 300px; margin: 200px; margin-top: 0px;
-}
-#figura2{
-	position: absolute; background-color: transparent; top:0px; left: 100px; width: 300px; margin: 300px; margin-top: 0px;
-}
-#figura3{
-	position: absolute; background-color: transparent; top:0px; left: 200px; width: 300px; margin: 400px; margin-top: 0px;
-}
-#figura4{
-	position: absolute; background-color: transparent; top:0px; left: 300px; width: 300px; margin: 500px; margin-top: 0px;
-}
+
 #figura5{
 	position: absolute; background-color: transparent; top:0px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
-#figura6{
-	position: absolute; background-color: transparent; top:250px; left: 50px; width: 300px; margin: 50px; margin-top: 0px;
-}
-#figura7{
-	position: absolute; background-color: transparent; top:250px; left: 100px; width: 300px; margin: 200px; margin-top: 0px;
-}
-#figura8{
-	position: absolute; background-color: transparent; top:250px; left: 150px; width: 300px; margin: 350px; margin-top: 0px;
-}
-#figura9{
-	position: absolute; background-color: transparent; top:250px; left: 200px; width: 300px; margin: 500px; margin-top: 0px;
-}
-#figura10{
-	position: absolute; background-color: transparent; top:250px; left: 250px; width: 300px; margin: 650px; margin-top: 0px;
-}
+
 #figura11{
 	position: absolute; background-color: transparent; top:250px; left: 300px; width: 300px; margin: 800px; margin-top: 0px;
 }
@@ -88,18 +63,7 @@ div.petalo{
 #figura13{
 	position: absolute; background-color: transparent; top:500px; left: 0px; width: 300px; margin: 0px; margin-top: 0px;
 }
-#figura14{
-	position: absolute; background-color: transparent; top:500px; left: 0px; width: 300px; margin: 200px; margin-top: 0px;
-}
-#figura15{
-	position: absolute; background-color: transparent; top:500px; left: 100px; width: 300px; margin: 300px; margin-top: 0px;
-}
-#figura16{
-	position: absolute; background-color: transparent; top:500px; left: 200px; width: 300px; margin: 400px; margin-top: 0px;
-}
-#figura17{
-	position: absolute; background-color: transparent; top:500px; left: 300px; width: 300px; margin: 500px; margin-top: 0px;
-}
+
 #figura18{
 	position: absolute; background-color: transparent; top:500px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
@@ -109,9 +73,7 @@ div.petalo{
 #figura20{
 	position: absolute; background-color: transparent; top:750px; left: 100px; width: 300px; margin: 200px; margin-top: 0px;
 }
-#figura21{
-	position: absolute; background-color: transparent; top:750px; left: 150px; width: 300px; margin: 350px; margin-top: 0px;
-}
+
 #figura22{
 	position: absolute; background-color: transparent; top:750px; left: 200px; width: 300px; margin: 500px; margin-top: 0px;
 }
@@ -221,7 +183,7 @@ div.petalo{
 	position: absolute; background-color: transparent; top:2000px; left: 400px; width: 300px; margin: 600px; margin-top: 0px;
 }
 #cesped{
-	width: 3500px; bottom: 0px; position: fixed;
+	width: 3000px; bottom: -100px; position: fixed;
 }
 .manga{
 	background: #00fa3a; transform:rotate(45deg); -webkit-transform:rotate(45deg); -moz-transform:rotate(45deg);
